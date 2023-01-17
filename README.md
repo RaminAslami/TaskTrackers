@@ -1,3 +1,5 @@
+This is inspired by "Traversy Media"
+
 # Task Tracker
 
 Welcome to the Task Tracker application. This application allows you to add, delete, and view tasks.
@@ -29,3 +31,4 @@ This will start a development server for the application and will open the appli
 - The json-server is a mock backend, so all the data will be lost when you stop the json-server.
 
 Thank you for trying out the Task Tracker application!
+
